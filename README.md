@@ -1,4 +1,4 @@
-# Algorithm
-It's algorithms practical problem different thinking searching, sorting and other algorithm.
+# Data Structure and Algorithm
+It's Data Structure and Algorithms practical problem solution repository.
 
 Thinking by @rdnasim
